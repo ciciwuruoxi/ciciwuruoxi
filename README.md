@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Cici (Ruoxi) Wu
 
-<!--
-**ciciwuruoxi/ciciwuruoxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Cici Wu, a data enthusiast with a passion for turning raw data into actionable insights. With multiple internships and research experiences in data engineering, quantitative analysis, and machine learning, I look forward to launching my first full-time job and contributing to my future team!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Current Role: December 2025 NG looking for Data relevant position. 
+
+🌱 Skills: Database integration, ETL Pipeline, Dashboard Design, and NLP modelling. 
+
+📫 Contact Me: wuruoxi.cici@gmail.com
+Or connect with me: https://www.linkedin.com/in/ruoxi-wu-cici/
+
+🎓 Education: BS in Computer Science & BS in Statistics from Purdue University, with minor in Economics
+
+💬 Interests: Running, R&B, IP law. 
