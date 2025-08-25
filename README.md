@@ -34,6 +34,7 @@ Led the replacement of a 2005-era dashboard by first rebuilding the weekly ETL p
 In addition, I also developed other small models, supported cross-functional communication with engineers, executives, and clinical staff, and contributed to exploratory research. But the above was my three main achievement. 
 
 About My Passion & Challenge of AI
+
 I am passionate about data engineering because I believe that in the era of AI, the role of data engineers will become more critical—not less. While AI can automate many processes, the quality of training data directly determines the quality of models, making human expertise in building pipelines, curating datasets, and ensuring data integrity indispensable. To me, the key to success as a data professional is staying as close to the business as possible—understanding real-world problems, aligning data systems with business needs, and creating solutions that drive impact. This is the space where AI cannot fully replace human judgment, and it is where I aspire to make my contribution.
 
 
