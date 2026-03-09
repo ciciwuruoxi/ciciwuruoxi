@@ -1,4 +1,4 @@
-## Hi I'm Cici 👋
+## Hi This is Cici 👋
 
 <!--
 **ciciwuruoxi/ciciwuruoxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
